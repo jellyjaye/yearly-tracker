@@ -1,0 +1,51 @@
+Country,ISO.alpha3.code,M49.code,Region,GDP.per.capita,Population2010.OECD.estimate,Area.sqkm,centroid.lon,centroid.lat,capital,capital.lon,capital.lat
+Albania,ALB,8,Southern Europe,4450,3195000,28748,20,41,Tirana,19.82,41.32
+Andorra,AND,20,Southern Europe,41930,71519,467.63,1.5,42.5,Andorra la Vella,1.5,42.5
+Armenia,ARM,51,Western Asia,3937,3249482,29743,45,40.25,Yerevan,44.5,40.17
+Austria,AUT,40,Western Europe,47718,8375290,83879,13.3333,47.3333,Vienna,16.37,48.2
+Azerbaijan,AZE,31,Western Asia,4146,8997586,86600,47.5,40.5,Baku,49.87,40.38
+Belarus,BLR,112,Eastern Europe,5750,9480178,207595,28,53,Minsk,27.57,53.9
+Belgium,BEL,56,Western Europe,43289,10839905,30528,4,50.8333,Brussels,4.33,50.83
+Bosnia & Herzegovina,BIH,70,Southern Europe,5181,3844046,51129,17.786,44.169,Sarajevo,18.42,43.87
+Bulgaria,BGR,100,Eastern Europe,8218,7563710,110994,25.25,42.666667,Sofia,23.32,42.68
+Croatia,HRV,191,Southern Europe,13177,4425747,56594,15.5,45.1667,Zagreb,16,45.8
+Cyprus,CYP,196,Western Asia,25790,1102677,9251,33,35,Nicosia,33.37,35.17
+Czech Republic,CZE,203,Eastern Europe,20326,10506813,78866,15,49.75,Prague,14.47,50.08
+Denmark,DNK,208,Northern Europe,57533,5534738,42931,10,56,Copenhagen,12.58,55.67
+Estonia,EST,233,Northern Europe,19793,1340127,45227,26,59,Tallinn,24.72,59.43
+F.Y.R. Macedonia/North Macedonia,MKD,807,Southern Europe,5415,2052722,25713,21.75,41.66667,Skopje,21.43,42
+Finland,FIN,246,Northern Europe,45670,5351427,338424,26,64,Helsinki,24.93,60.17
+France,FRA,250,Western Europe,38415,62791013,640679,2,46,Paris,2.33,48.87
+Georgia,GEO,268,Western Asia,3875,4436391,69700,43.5,42,Tbilisi,44.83,41.68
+Germany,DEU,276,Western Europe,44976,81802257,357168,10.5,51.5,Berlin,13.4,52.52
+Greece,GRC,300,Southern Europe,18198,11305118,131957,22,39,Athens,23.73,37.98
+Hungary,HUN,348,Eastern Europe,14376,10014324,93030,20,47,Budapest,19.08,47.5
+Iceland,ISL,352,Northern Europe,73060,317630,102775,-18,65,Reykjavik,-21.95,64.15
+Ireland,IRL,372,Northern Europe,69604,4467854,70273,-8,53.333333,Dublin,-6.23,53.32
+Israel,ISR,376,Western Asia,42452,7623600,22072,34.75,31.5,Jerusalem,35.23,31.77
+Italy,ITA,380,Southern Europe,32747,60340328,301338,12.833333,42.833333,Rome,12.48,41.9
+Latvia,LVA,428,Northern Europe,15625,2248374,64589,25,57,Riga,24.1,56.95
+Lithuania,LTU,440,Northern Europe,16450,3329039,65300,24,56,Vilnius,25.32,54.68
+Luxembourg,LUX,442,Western Europe,106806,502066,2586,6.166667,49.75,Luxembourg,6.12,49.6
+Malta,MLT,470,Southern Europe,29137,414372,316,14.4167,35.9167,Valletta,14.5,35.88
+Moldova,MDA,498,Eastern Europe,2006,3563695,33846,28.58333,47.25,Chisinau,28.85,47
+Monaco,MCO,492,Western Europe,115700,33178,2,7.42,43.74,Monaco,7.42,43.74
+Montenegro,MNE,499,Southern Europe,7703,616411,13812,19.3333,42.5,Podgorica,19.27,42.43
+Netherlands,NLD,528,Western Europe,48754,16574989,41543,5.75,52.5,Amsterdam,4.92,52.35
+Norway,NOR,578,Northern Europe,75295,4858199,385203,10,62,Oslo,10.75,59.92
+Poland,POL,616,Eastern Europe,13786,38167329,312679,20,52,Warsaw,21,52.25
+Portugal,PRT,620,Southern Europe,18882,10637713,92212,-8,39.5,Lisbon,-9.13,38.72
+Romania,ROU,642,Eastern Europe,10763,21462186,238397,25,46,Bucharest,26.1,44.43
+Russia,RUS,643,Eastern Europe,10956,142849472,17075200,100,60,Moscow,37.6,55.75
+San Marino,SMR,674,Southern Europe,72070,31608,61,12.46,43.94,San Marino,12.46,43.94
+Serbia,SRB,688,Southern Europe,5912,7291436,77474,21.066263,43.138586,Belgrade,20.5,44.83
+Serbia & Montenegro,,,Southern Europe,,,,,,Belgrade,20.5,44.83
+Slovakia,SVK,703,Eastern Europe,17552,5424925,49035,19.5,48.666667,Bratislava,17.12,48.15
+Slovenia,SVN,705,Southern Europe,23296,2046976,20273,15,46.083,Ljubljana,14.52,46.05
+Spain,ESP,724,Southern Europe,28354,45989016,505990,-4,40,Madrid,-3.68,40.4
+Sweden,SWE,752,Northern Europe,54043,9340682,450295,15,62,Stockholm,18.05,59.33
+Switzerland,CHE,756,Western Europe,80101,7785806,41285,8,47,Bern,7.47,46.92
+Turkey,TUR,792,Western Asia,10546,73722988,783356,35,39,Ankara,32.87,39.93
+Ukraine,UKR,804,Eastern Europe,2536,45782592,603628,32,49,Kyiv (Kiev),30.52,50.43
+United Kingdom,GBR,826,Northern Europe,39758,62026962,242495,-2,54,London,-0.08,51.5
+Yugoslavia,,,Southern Europe,,,,,,Belgrade,20.5,44.83
