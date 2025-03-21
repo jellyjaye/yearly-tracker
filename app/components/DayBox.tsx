@@ -217,7 +217,7 @@ export default function DayBox({ date, onHover }: DayBoxProps) {
                 </HStack>
                 <Box 
                   width="100%" 
-                  height="250px" 
+                  height="350px" 
                   overflow="hidden" 
                   borderRadius="md"
                   border="1px solid"
@@ -227,7 +227,7 @@ export default function DayBox({ date, onHover }: DayBoxProps) {
                     onEmojiClick={handleEmojiSelect}
                     autoFocusSearch={false}
                     theme={Theme.AUTO}
-                    searchPlaceHolder=""
+                    searchPlaceHolder="搜索表情..."
                     width="100%"
                     height="100%"
                     lazyLoadEmojis={true}
