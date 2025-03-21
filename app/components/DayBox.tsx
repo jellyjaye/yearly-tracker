@@ -20,7 +20,7 @@ import {
   HStack,
 } from '@chakra-ui/react';
 import { CloseIcon } from '@chakra-ui/icons';
-import EmojiPicker, { EmojiClickData, Theme, EmojiStyle } from 'emoji-picker-react';
+import EmojiPicker, { EmojiClickData, Theme } from 'emoji-picker-react';
 
 interface DayBoxProps {
   date: Date;
@@ -231,7 +231,7 @@ export default function DayBox({ date, onHover }: DayBoxProps) {
                     width="100%"
                     height="100%"
                     lazyLoadEmojis={true}
-                    previewConfig={{ showPreview: false }}
+                    previewConfig={{ defaultCaption: '' }}
                   />
                 </Box>
               </Box>
